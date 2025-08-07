@@ -1,0 +1,2 @@
+Run by typing in terminal: streamlit run streamlit_chatbot.py
+Make sure to have your own OPENAI_API_KEY in the .streamlit folder inside "secrets.toml" file
