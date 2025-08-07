@@ -21,7 +21,7 @@ build/
 
 # Environment variables and secrets
 .env
-.streamlit/secrets.toml
+
 
 # Operating System Files
 .DS_Store
